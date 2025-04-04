@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectWeaver.Lib", "ObjectWeaver.Lib\ObjectWeaver.Lib.csproj", "{EF84FB63-D678-4D8F-B3EE-5B3EA3D31099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectWeaver.Test", "ObjectWeaver.Test\ObjectWeaver.Test.csproj", "{B7443546-A05A-46D6-B964-222840CEAF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF84FB63-D678-4D8F-B3EE-5B3EA3D31099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF84FB63-D678-4D8F-B3EE-5B3EA3D31099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF84FB63-D678-4D8F-B3EE-5B3EA3D31099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF84FB63-D678-4D8F-B3EE-5B3EA3D31099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7443546-A05A-46D6-B964-222840CEAF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7443546-A05A-46D6-B964-222840CEAF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7443546-A05A-46D6-B964-222840CEAF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7443546-A05A-46D6-B964-222840CEAF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F98F32-ECB2-4E88-B66F-DBD358766F82}
+	EndGlobalSection
+EndGlobal
